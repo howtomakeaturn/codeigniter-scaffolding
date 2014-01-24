@@ -17,6 +17,8 @@ a scaffolding based on codeigniter
 
 * want to use some beautiful icons and choose [Font-Awesome](https://github.com/FortAwesome/Font-Awesome "The iconic font designed for Bootstrap http://fontawesome.io")
 
+* think the url shouldn't start with index.php, therefore want a .htaccess file to overcome this
+
 * dont want to download and set all above things by hands
 
 ###Usage###
