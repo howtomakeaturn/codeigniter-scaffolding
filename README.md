@@ -15,6 +15,8 @@ a scaffolding based on codeigniter
 
 * think CI's native active record is not convinient enough, therefore want [jamierumbelow's codeigniter-base-model](https://github.com/jamierumbelow/codeigniter-base-model "CodeIgniter base CRUD model to remove repetition and increase productivity")
 
+* need a template engine, and choose [philsturgeon's codeigniter-template](https://github.com/philsturgeon/codeigniter-template "Template library for CodeIgniter which supports modules, themes, partial views, etc.")
+
 * want to use some beautiful icons and choose [Font-Awesome](https://github.com/FortAwesome/Font-Awesome "The iconic font designed for Bootstrap http://fontawesome.io")
 
 * think the url shouldn't start with index.php, therefore want a .htaccess file to overcome this

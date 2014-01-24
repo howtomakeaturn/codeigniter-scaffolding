@@ -19,8 +19,10 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('welcome_message');
+      $this->template->title('TEMPLATE DEMO');
+      $this->template->build('welcome/demo');
 	}
+    
 }
 
 /* End of file welcome.php */
