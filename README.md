@@ -17,6 +17,8 @@ a scaffolding based on codeigniter
 
 * need a template engine, and choose [philsturgeon's codeigniter-template](https://github.com/philsturgeon/codeigniter-template "Template library for CodeIgniter which supports modules, themes, partial views, etc.")
 
+* need to do tests, and choose [ericbarnes's codeigniter-simpletest](https://github.com/ericbarnes/codeigniter-simpletest "Simpletest Integration for CodeIgniter http://ericlbarnes.com")
+
 * want to use some beautiful icons and choose [Font-Awesome](https://github.com/FortAwesome/Font-Awesome "The iconic font designed for Bootstrap http://fontawesome.io")
 
 * think the url shouldn't start with index.php, therefore want a .htaccess file to overcome this
